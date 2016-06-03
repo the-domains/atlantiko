@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Testimonials
-datePublished: '2016-06-03T22:37:30.323Z'
-dateModified: '2016-06-03T22:35:07.642Z'
+datePublished: '2016-06-03T23:03:04.971Z'
+dateModified: '2016-06-03T22:45:46.241Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-03-testimonials.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-testimonials.md
 url: testimonials/index.html
 _type: Article
 
