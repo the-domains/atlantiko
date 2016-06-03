@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:10:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Fri, 03 Jun 2016 20:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[INSPIRATIONS ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e2955c-7e0f-43e9-9e06-dd1602b0567f.png">]]></description>
+            <link>https://thegrid.ai/atlantiko/inspirations/index.html</link>
+            <guid isPermaLink="false">37dda722-0ccf-45b7-ba4d-4ade3e4efa16</guid>
+            <pubDate>Fri, 03 Jun 2016 23:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
