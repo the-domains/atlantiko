@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Atlantiko]]></title>
         <description><![CDATA[Atlantiko]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 19:46:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 19:56:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32b7241-26e6-4833-a356-027c1cd263d5.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
+            <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
+            <pubDate>Fri, 03 Jun 2016 19:55:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf0c2390-6a8c-4f3e-b1c3-15e2697e58b7.jpg">]]></description>
-            <link>undefined6021719e-f2f2-49b2-a80a-077d25617d6f/index.html</link>
+            <link>https://thegrid.ai/atlantiko/6021719e-f2f2-49b2-a80a-077d25617d6f/index.html</link>
             <guid isPermaLink="false">6021719e-f2f2-49b2-a80a-077d25617d6f</guid>
             <pubDate>Fri, 03 Jun 2016 19:46:32 GMT</pubDate>
         </item>
