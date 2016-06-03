@@ -4,19 +4,18 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: CONTACT US yourevent@atlantiko.com
-datePublished: '2016-06-03T19:55:51.594Z'
-dateModified: '2016-06-03T19:55:36.754Z'
+description: ' yourevent@atlantiko.com'
+datePublished: '2016-06-03T20:11:54.037Z'
+dateModified: '2016-06-03T20:07:31.559Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-03-contact-us.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-03-contact-us.md
+starred: true
 url: contact-us/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32b7241-26e6-4833-a356-027c1cd263d5.jpg)
-
-CONTACT US yourevent@atlantiko.com
+**yourevent@atlantiko.com**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f41563-85d0-4a63-a381-b45c182b5847.jpg)
