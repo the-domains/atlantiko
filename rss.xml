@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 22:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:01:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact Us]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Fri, 03 Jun 2016 20:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VENUES]]></title>
+            <description><![CDATA[<p>Domaine Allard, Brigitines, BAO, NRW... </p>]]></description>
+            <link>https://thegrid.ai/atlantiko/venues/index.html</link>
+            <guid isPermaLink="false">9f1fd56f-711e-47bc-9424-e27341867846</guid>
+            <pubDate>Fri, 03 Jun 2016 23:01:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RECIPES]]></title>
