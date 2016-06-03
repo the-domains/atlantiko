@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Testimonials
-datePublished: '2016-06-03T23:03:04.971Z'
-dateModified: '2016-06-03T22:45:46.241Z'
+datePublished: '2016-06-03T23:39:09.429Z'
+dateModified: '2016-06-03T23:03:14.671Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-03-testimonials.md
