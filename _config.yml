@@ -7,9 +7,9 @@ color:
     - '#569FE4'
     - '#09FD7B'
   brandStrength: 0
-  lightness: 0.5
-  rhythmicContrast: 0.75
-  saturation: 0.75
+  lightness: 0.201014
+  rhythmicContrast: 0.021115
+  saturation: 0.288007
 cta: {}
 layout_spectrum: 1
 name: Atlantiko
