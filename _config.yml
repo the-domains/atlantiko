@@ -6,7 +6,7 @@ color:
     - '#E01C82'
     - '#569FE4'
     - '#09FD7B'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   rhythmicContrast: 0.75
   saturation: 0.75
