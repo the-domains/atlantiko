@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 12:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 12:50:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Email or Phone]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Sat, 04 Jun 2016 11:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf0c2390-6a8c-4f3e-b1c3-15e2697e58b7.jpg" alt="A NEW DAWN" title="">]]></description>
+            <link>https://thegrid.ai/atlantiko/6021719e-f2f2-49b2-a80a-077d25617d6f/index.html</link>
+            <guid isPermaLink="false">6021719e-f2f2-49b2-a80a-077d25617d6f</guid>
+            <pubDate>Sat, 04 Jun 2016 12:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KEEP IN THE LOOP]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/atlantiko/menus/index.html</link>
             <guid isPermaLink="false">85e2044b-e719-4859-8e18-fcdb74e98ce8</guid>
             <pubDate>Fri, 03 Jun 2016 23:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf0c2390-6a8c-4f3e-b1c3-15e2697e58b7.jpg" alt="LaBritannique rebranded as Atlantiko, reflecting our more international approach combining our culinary heritage from Britain and Ireland, Spain, France and Belgium and up through Germany and Scandinavia">]]></description>
-            <link>https://thegrid.ai/atlantiko/6021719e-f2f2-49b2-a80a-077d25617d6f/index.html</link>
-            <guid isPermaLink="false">6021719e-f2f2-49b2-a80a-077d25617d6f</guid>
-            <pubDate>Fri, 03 Jun 2016 20:16:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
