@@ -1,18 +1,16 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Testimonials
-datePublished: '2016-06-03T23:39:09.429Z'
-dateModified: '2016-06-03T23:03:14.671Z'
-title: ''
-author: []
-sourcePath: _posts/2016-06-03-testimonials.md
 authors: []
-publisher: null
+dateModified: '2016-06-04T00:42:59.974Z'
+description: Testimonials
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
+title: 'See what others have to say about us... '
+author: []
+datePublished: '2016-06-04T00:43:09.497Z'
 starred: false
+sourcePath: _posts/2016-06-03-testimonials.md
 url: testimonials/index.html
 _type: Article
 
