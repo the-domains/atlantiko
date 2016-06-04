@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 11:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 11:22:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Email or Phone]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Sat, 04 Jun 2016 11:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venues where we work]]></title>
+            <description><![CDATA[<article><h1>Venues where we work</h1><p>Domaine Allard, Brigitines, BAO, NRW...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd5bb838-f7fd-497b-8a1f-8ec715c4b8e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atlantiko/venues/index.html</link>
+            <guid isPermaLink="false">9f1fd56f-711e-47bc-9424-e27341867846</guid>
+            <pubDate>Sat, 04 Jun 2016 11:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[See what others have to say about us... ]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/atlantiko/inspirations/index.html</link>
             <guid isPermaLink="false">37dda722-0ccf-45b7-ba4d-4ade3e4efa16</guid>
             <pubDate>Fri, 03 Jun 2016 23:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VENUES]]></title>
-            <description><![CDATA[<p>Domaine Allard, Brigitines, BAO, NRW... </p>]]></description>
-            <link>https://thegrid.ai/atlantiko/venues/index.html</link>
-            <guid isPermaLink="false">9f1fd56f-711e-47bc-9424-e27341867846</guid>
-            <pubDate>Fri, 03 Jun 2016 23:01:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RECIPES]]></title>
