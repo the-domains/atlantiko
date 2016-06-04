@@ -1,22 +1,25 @@
 ---
-authors: []
-dateModified: '2016-06-04T11:19:52.154Z'
-description: Ourevent@atlantiko.com
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-title: Email or Phone
-author: []
-datePublished: '2016-06-04T11:20:01.338Z'
-starred: true
+description: Ourevent@atlantiko.com
+datePublished: '2016-06-04T13:29:48.413Z'
+dateModified: '2016-06-04T13:29:35.029Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-03-contact-us.md
+authors: []
+publisher: null
+starred: false
 url: contact-us/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d91a15d070059228a89ba2db701d11b8bcb0979.jpg)
-
 **Ourevent@atlantiko.com**
 
 +32 483 052888
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/913d58d4-e2c9-4f68-a033-bb4fadf04e72.jpg)
