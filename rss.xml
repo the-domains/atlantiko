@@ -4,8 +4,15 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 13:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 14:41:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Please download Flash player here. We are a fresh innovative catering company based in Brussels. Click on a link to download our menus - the seasonal menus start with breakfast and coffee breaks, through to hot and cold buffets, our business lunch delivery options on to canapes and walking dinners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3e7b38f16f6d91b3f7b903b1df733aa80024ce4.jpg"></article>]]></description>
+            <link>http://www.labritannique.com/</link>
+            <guid isPermaLink="false">f212eecc-4556-4eae-8ff7-201390a22e11</guid>
+            <pubDate>Sat, 04 Jun 2016 14:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Email or Phone]]></title>
             <description><![CDATA[<p>Ourevent@atlantiko.com</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/atlantiko/testimonials/index.html</link>
             <guid isPermaLink="false">078bd592-7691-4a5a-9a27-db252c3e7ec1</guid>
             <pubDate>Sat, 04 Jun 2016 00:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MENUS]]></title>
-            <description><![CDATA[<h1>MENUS</h1>]]></description>
-            <link>https://thegrid.ai/atlantiko/menus/index.html</link>
-            <guid isPermaLink="false">85e2044b-e719-4859-8e18-fcdb74e98ce8</guid>
-            <pubDate>Fri, 03 Jun 2016 23:36:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
