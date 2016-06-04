@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 12:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 12:46:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Email or Phone]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Sat, 04 Jun 2016 11:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KEEP IN THE LOOP]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da336eda-2444-46e4-96be-a0b4dc758a41.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/keep-in-touch/index.html</link>
+            <guid isPermaLink="false">7bc2d2d0-10b4-4bbc-8bfe-c040c8c35df2</guid>
+            <pubDate>Sat, 04 Jun 2016 12:45:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PAPERWORK]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/atlantiko/testimonials/index.html</link>
             <guid isPermaLink="false">078bd592-7691-4a5a-9a27-db252c3e7ec1</guid>
             <pubDate>Sat, 04 Jun 2016 00:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KEEP IN TOUCH]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da336eda-2444-46e4-96be-a0b4dc758a41.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/keep-in-touch/index.html</link>
-            <guid isPermaLink="false">7bc2d2d0-10b4-4bbc-8bfe-c040c8c35df2</guid>
-            <pubDate>Sat, 04 Jun 2016 00:08:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MENUS]]></title>
