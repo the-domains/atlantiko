@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 11:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 11:36:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Email or Phone]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/atlantiko/contact-us/index.html</link>
             <guid isPermaLink="false">31f2887a-08fd-43d3-b51a-590410a300d6</guid>
             <pubDate>Sat, 04 Jun 2016 11:20:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recipes we love]]></title>
+            <description><![CDATA[<article><h1>Recipes we love</h1><p>Who would ever thought parsley would work in cakes..... It's divine and why stop there...? Mint works well as a base for our Aztec Chocolate Mousse with Tequila Mint white choc ganache....</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39fa7eb-2265-4264-ae3d-b728987ce221.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atlantiko/recipes/index.html</link>
+            <guid isPermaLink="false">cd816be6-cc5b-4baa-97d7-10f7e93d19d2</guid>
+            <pubDate>Sat, 04 Jun 2016 11:36:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inspirations ]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/atlantiko/menus/index.html</link>
             <guid isPermaLink="false">85e2044b-e719-4859-8e18-fcdb74e98ce8</guid>
             <pubDate>Fri, 03 Jun 2016 23:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RECIPES]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39fa7eb-2265-4264-ae3d-b728987ce221.jpg" alt="Who would ever thought parsley would work in cakes..... It&apos;s divine and why stop there...? Mint works well as a base for our Aztec Chocolate Mousse with Tequila Mint white choc ganache....">]]></description>
-            <link>https://thegrid.ai/atlantiko/recipes/index.html</link>
-            <guid isPermaLink="false">cd816be6-cc5b-4baa-97d7-10f7e93d19d2</guid>
-            <pubDate>Fri, 03 Jun 2016 22:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
