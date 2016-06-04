@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-06-04T11:28:15.400Z'
-datePublished: '2016-06-04T11:28:33.049Z'
+dateModified: '2016-06-04T13:30:43.744Z'
+datePublished: '2016-06-04T17:45:26.429Z'
 description: >-
   here are a few of the tasty treats that we have been serving or working on
   recently...
@@ -11,8 +11,10 @@ inNav: true
 keywords: []
 title: Portfolio
 author: []
-starred: false
 sourcePath: _posts/2016-06-03-portfolio.md
+inLanguage: null
+publisher: null
+starred: true
 url: portfolio/index.html
 _type: Article
 
