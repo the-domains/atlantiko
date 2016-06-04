@@ -1,28 +1,18 @@
-name: Atlantiko
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.51778
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
+    - '#FFFFFF'
     - '#000000'
-    - '#e01c82'
-    - '#569fe4'
-    - '#09fd7b'
-  brandStrength: 0.5
+    - '#E01C82'
+    - '#569FE4'
+    - '#09FD7B'
+  brandStrength: 1
   lightness: 0.5
-  saturation: 0.75
   rhythmicContrast: 0.75
+  saturation: 0.75
+cta: {}
+layout_spectrum: 1
+name: Atlantiko
+opengraph: {}
 purpose: []
+typography_spectrum: 0.51778
