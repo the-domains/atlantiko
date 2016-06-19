@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: PAPERWORK
-datePublished: '2016-06-04T12:42:37.879Z'
-dateModified: '2016-06-04T12:42:09.061Z'
+datePublished: '2016-06-19T23:41:26.089Z'
+dateModified: '2016-06-19T23:41:25.724Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-04-paperwork.md
+starred: true
 url: paperwork/index.html
 _type: Article
 
