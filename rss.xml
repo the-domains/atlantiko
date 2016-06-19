@@ -4,8 +4,15 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 23:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 23:41:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PAPERWORK]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0de8a60-52c2-460d-9b36-c70d3c24e299.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
+            <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
+            <pubDate>Sun, 19 Jun 2016 23:41:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A NEW DAWN]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf0c2390-6a8c-4f3e-b1c3-15e2697e58b7.jpg" alt="A NEW DAWN" title="">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/atlantiko/keep-in-touch/index.html</link>
             <guid isPermaLink="false">7bc2d2d0-10b4-4bbc-8bfe-c040c8c35df2</guid>
             <pubDate>Sat, 04 Jun 2016 12:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PAPERWORK]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0de8a60-52c2-460d-9b36-c70d3c24e299.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
-            <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
-            <pubDate>Sat, 04 Jun 2016 12:42:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venues where we work]]></title>
