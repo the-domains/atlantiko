@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-06-20T20:34:26.947Z'
+datePublished: '2016-06-20T22:38:12.484Z'
 sourcePath: _posts/2016-06-19-bounty-of-riches.md
 inFeed: true
 author: []
-dateModified: '2016-06-20T20:33:15.735Z'
+dateModified: '2016-06-20T22:38:12.016Z'
 title: 'The Sea, The Land, & The taste of the Atlantic'
 description: >-
   Waking up here in Santa Cruz with cockerels crowing, the Tenerife night ferry
   docking into the port, the smell of hot coffee brewing and a sunrise over the
   horizon... wow! it was all so comforting and familiar, yet glaringly exotic...
   i had come home, and moreover discovered my culinary style... finally!
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
