@@ -4,14 +4,14 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:38:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[PAPERWORK]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d2259fec2cee66e35443f4cb9b05a485160ece7.jpg" alt="Our Terms and Conditions">]]></description>
-            <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
-            <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
-            <pubDate>Mon, 20 Jun 2016 22:34:49 GMT</pubDate>
+            <title><![CDATA[Inspirations & Recipes]]></title>
+            <description><![CDATA[<article><h1>Inspirations & Recipes</h1><p>Another real winner this year for the LaBritannique and Atlantiko team, a flourless almond ricotta and lemon cake...divine gluten free magicc...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e2955c-7e0f-43e9-9e06-dd1602b0567f.png"></article>]]></description>
+            <link>https://thegrid.ai/atlantiko/inspirations/index.html</link>
+            <guid isPermaLink="false">37dda722-0ccf-45b7-ba4d-4ade3e4efa16</guid>
+            <pubDate>Mon, 20 Jun 2016 22:38:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[contact us by phone or mail]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Mon, 20 Jun 2016 22:13:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PAPERWORK]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d2259fec2cee66e35443f4cb9b05a485160ece7.jpg" alt="Our Terms and Conditions">]]></description>
+            <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
+            <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
+            <pubDate>Mon, 20 Jun 2016 22:38:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KEEP IN THE LOOP]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da336eda-2444-46e4-96be-a0b4dc758a41.jpg">]]></description>
             <link>https://thegrid.ai/atlantiko/keep-in-the-loop/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/atlantiko/c1ab44bd-380e-4646-8728-9f8e4054fc8f/index.html</link>
             <guid isPermaLink="false">c1ab44bd-380e-4646-8728-9f8e4054fc8f</guid>
             <pubDate>Mon, 20 Jun 2016 22:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc14f782-e02f-4a08-b92b-9995d68f6b8e.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/e5807dc5-c68b-427a-acef-896f6e57a52e/index.html</link>
-            <guid isPermaLink="false">e5807dc5-c68b-427a-acef-896f6e57a52e</guid>
-            <pubDate>Mon, 20 Jun 2016 22:35:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
