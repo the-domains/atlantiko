@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-20T22:38:12.484Z'
+datePublished: '2016-06-20T23:08:18.379Z'
 sourcePath: _posts/2016-06-19-bounty-of-riches.md
 inFeed: true
 author: []
-dateModified: '2016-06-20T22:38:12.016Z'
+dateModified: '2016-06-20T22:41:10.041Z'
 title: 'The Sea, The Land, & The taste of the Atlantic'
 description: >-
   Waking up here in Santa Cruz with cockerels crowing, the Tenerife night ferry
