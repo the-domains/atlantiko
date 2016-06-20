@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:52:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inspirations & Recipes]]></title>
@@ -36,31 +36,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/502eaa6d-cdfa-4de1-958f-308d8e93a43f.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/72050d16-ddc6-41f4-a9ee-b8d5ef915bd3/index.html</link>
-            <guid isPermaLink="false">72050d16-ddc6-41f4-a9ee-b8d5ef915bd3</guid>
-            <pubDate>Mon, 20 Jun 2016 22:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a88d7fe5-5275-497d-9966-0dbd98124e12.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/8c061a5d-8c73-4ef0-81fe-f9f7b0fb8ca6/index.html</link>
-            <guid isPermaLink="false">8c061a5d-8c73-4ef0-81fe-f9f7b0fb8ca6</guid>
-            <pubDate>Mon, 20 Jun 2016 22:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8129dc3-6474-48ae-be87-63146f426c37.jpg">]]></description>
             <link>https://thegrid.ai/atlantiko/ef87da70-7215-4948-a16e-241a5f4e19ac/index.html</link>
             <guid isPermaLink="false">ef87da70-7215-4948-a16e-241a5f4e19ac</guid>
             <pubDate>Mon, 20 Jun 2016 22:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d6432fe-d682-491a-8d79-109803bb208d.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/b07122f0-c48d-487e-afbd-39a505c993d7/index.html</link>
-            <guid isPermaLink="false">b07122f0-c48d-487e-afbd-39a505c993d7</guid>
-            <pubDate>Mon, 20 Jun 2016 22:52:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +54,27 @@
             <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
             <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
             <pubDate>Mon, 20 Jun 2016 22:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KEEP IN THE LOOP]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da336eda-2444-46e4-96be-a0b4dc758a41.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/keep-in-the-loop/index.html</link>
+            <guid isPermaLink="false">7bc2d2d0-10b4-4bbc-8bfe-c040c8c35df2</guid>
+            <pubDate>Mon, 20 Jun 2016 22:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d13b66-c665-4896-b221-b1872f49a66d.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/1b9dbd58-71a5-46a0-98f7-9db398af6688/index.html</link>
+            <guid isPermaLink="false">1b9dbd58-71a5-46a0-98f7-9db398af6688</guid>
+            <pubDate>Mon, 20 Jun 2016 22:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5961694a-a0f8-46b7-a8bb-412417675341.png">]]></description>
+            <link>https://thegrid.ai/atlantiko/13b01488-828b-46d0-b3ef-c9463a8f967a/index.html</link>
+            <guid isPermaLink="false">13b01488-828b-46d0-b3ef-c9463a8f967a</guid>
+            <pubDate>Mon, 20 Jun 2016 22:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
