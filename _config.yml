@@ -1,6 +1,6 @@
 name: Atlantiko
 favicon: null
-layout_spectrum: 0.25331
+layout_spectrum: 0.8694893573410809
 typography_spectrum: 0.49278
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#181df5'
-    - '#7f7f7f'
-    - '#00ff01'
-    - '#db2766'
-  brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.47560565499588847
+  lightness: 0.3314923346042633
+  saturation: 0.7501180586405098
+  rhythmicContrast: 0.5170120859984308
 purpose: []
