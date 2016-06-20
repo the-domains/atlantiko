@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'SUBSCRIBE '
-datePublished: '2016-06-20T22:34:47.523Z'
-dateModified: '2016-06-20T19:57:23.207Z'
+datePublished: '2016-06-20T22:37:58.113Z'
+dateModified: '2016-06-20T22:37:57.719Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-04-keep-in-touch.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: keep-in-the-loop/index.html
 _type: Article
 
