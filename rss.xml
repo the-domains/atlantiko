@@ -4,7 +4,7 @@
         <description><![CDATA[Atlantiko]]></description>
         <link>https://thegrid.ai/atlantiko/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 22:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 22:53:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atlantiko/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inspirations & Recipes]]></title>
@@ -36,6 +36,20 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff8b486-d561-4f81-bcf3-e936a23c0d16.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/44d71199-a95c-44df-a4b8-b6cfbc51ba0e/index.html</link>
+            <guid isPermaLink="false">44d71199-a95c-44df-a4b8-b6cfbc51ba0e</guid>
+            <pubDate>Mon, 20 Jun 2016 22:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/502eaa6d-cdfa-4de1-958f-308d8e93a43f.jpg">]]></description>
+            <link>https://thegrid.ai/atlantiko/72050d16-ddc6-41f4-a9ee-b8d5ef915bd3/index.html</link>
+            <guid isPermaLink="false">72050d16-ddc6-41f4-a9ee-b8d5ef915bd3</guid>
+            <pubDate>Mon, 20 Jun 2016 22:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a88d7fe5-5275-497d-9966-0dbd98124e12.jpg">]]></description>
             <link>https://thegrid.ai/atlantiko/8c061a5d-8c73-4ef0-81fe-f9f7b0fb8ca6/index.html</link>
             <guid isPermaLink="false">8c061a5d-8c73-4ef0-81fe-f9f7b0fb8ca6</guid>
@@ -61,20 +75,6 @@
             <link>https://www.google.be/search?q=san+vicente+de+la+barquera&amp;tbm=isch&amp;imgil=onbrHqFN9Q4cKM%253A%253Bi5OBGdJnHK3FQM%253Bhttp%25253A%25252F%25252Fwww.campingelrosal.com%25252Fen%25252Findex.html&amp;source=iu&amp;pf=m&amp;fir=onbrHqFN9Q4cKM%253A%252Ci5OBGdJnHK3FQM%252C_&amp;usg=__uIQVpP64NYtF-X934PS-oI6VL2I%3D&amp;biw=1920&amp;bih=955&amp;ved=0ahUKEwiEi9TKmY_NAhUmJsAKHbxKD_8QyjcIMg&amp;ei=hzhTV8SrLKbMgAa8lb34Dw#tbm=isch&amp;q=playa+de+las+catedrales&amp;imgrc=JOAgYEeZCVdLTM%3A</link>
             <guid isPermaLink="false">fc595ea3-e997-4963-a488-f3aa88f9afca</guid>
             <pubDate>Mon, 20 Jun 2016 22:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PAPERWORK]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d2259fec2cee66e35443f4cb9b05a485160ece7.jpg" alt="Our Terms and Conditions">]]></description>
-            <link>https://thegrid.ai/atlantiko/paperwork/index.html</link>
-            <guid isPermaLink="false">acf3dfd9-7f0e-4203-8fe9-a6ff3d660bc5</guid>
-            <pubDate>Mon, 20 Jun 2016 22:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KEEP IN THE LOOP]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da336eda-2444-46e4-96be-a0b4dc758a41.jpg">]]></description>
-            <link>https://thegrid.ai/atlantiko/keep-in-the-loop/index.html</link>
-            <guid isPermaLink="false">7bc2d2d0-10b4-4bbc-8bfe-c040c8c35df2</guid>
-            <pubDate>Mon, 20 Jun 2016 22:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
