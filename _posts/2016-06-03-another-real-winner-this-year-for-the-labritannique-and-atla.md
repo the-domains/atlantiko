@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-20T22:16:18.851Z'
+datePublished: '2016-06-20T22:38:20.475Z'
 sourcePath: >-
   _posts/2016-06-03-another-real-winner-this-year-for-the-labritannique-and-atla.md
 inFeed: true
@@ -7,13 +7,13 @@ authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-20T22:15:54.072Z'
+dateModified: '2016-06-20T22:38:20.046Z'
 title: Inspirations & Recipes
 description: >-
   Another real winner this year for the LaBritannique and Atlantiko team, a
   flourless almond ricotta and lemon cake...divine gluten free magicc...
 inNav: true
-starred: false
+starred: true
 url: inspirations/index.html
 _context: 'http://schema.org'
 _type: Article
