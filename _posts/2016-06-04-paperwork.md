@@ -1,22 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: PAPERWORK
-datePublished: '2016-06-19T23:41:26.089Z'
-dateModified: '2016-06-19T23:41:25.724Z'
-title: ''
-author: []
-authors: []
-publisher: null
+datePublished: '2016-06-20T19:39:39.146Z'
 sourcePath: _posts/2016-06-04-paperwork.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-20T19:39:38.634Z'
+title: ''
+publisher: null
+description: PAPERWORK
+inLanguage: null
+inNav: false
 starred: true
 url: paperwork/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0de8a60-52c2-460d-9b36-c70d3c24e299.jpg)
+![Our Terms and Conditions](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d2259fec2cee66e35443f4cb9b05a485160ece7.jpg)
 
 PAPERWORK
